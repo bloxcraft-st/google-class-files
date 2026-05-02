@@ -6,6 +6,7 @@
 
 All the games are not in .xml or folders, just html files.
 All .xml files were converted to .html files.
+All .swf files were coverted to a .html file
 
 Just a reminder this may not be updated much.
 NOTE: Not all games are gonna work, some are modified.
