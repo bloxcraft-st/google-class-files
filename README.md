@@ -17,4 +17,7 @@ NOTE: Not all games are gonna work, some are modified.
 achievement-unlocked-2.html
 achievement-unlocked-3.html
 achievement-unlocked.html
+car.html
 ```
+
+They might work if jsdelivr fixes their fetching thing for github
