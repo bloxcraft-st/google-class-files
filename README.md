@@ -17,9 +17,11 @@ NOTE: Not all games are gonna work, some are modified.
 achievement-unlocked-2.html
 achievement-unlocked-3.html
 achievement-unlocked.html
+moto-x3m-winter.html
+moto-x3m.html
 car.html
 ```
-
+Remember, this is just **SOME** of them.
 They might work if jsdelivr fixes their fetching thing for github
 
 **Big Games**
