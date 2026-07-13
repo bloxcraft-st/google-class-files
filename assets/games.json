@@ -708,5 +708,10 @@
     "name": "Wordle",
     "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/Google_Classroom_Logo.svg.png",
     "url": "wordle.html"
+  },
+    {
+    "name": "Swords And Sandals 2",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/Google_Classroom_Logo.svg.png",
+    "url": "Swords And Sandals 2.html"
   }
 ]
