@@ -26,7 +26,7 @@ They might work if jsdelivr fixes their fetching thing for github
 
 **Big Games**
 ```
-mc.html
+minecraft.html
 ```
 
 # LAST UPDATE:
