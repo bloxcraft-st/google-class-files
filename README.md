@@ -6,7 +6,7 @@
 
 All the games are not in .xml or folders, just html files.
 All .xml files were converted to .html files.
-All .swf files were coverted to a .html file
+All .swf files were coverted to a .html file with a game viewer
 
 Just a reminder this may not be updated much.
 NOTE: Not all games are gonna work, some are modified.
@@ -28,3 +28,6 @@ They might work if jsdelivr fixes their fetching thing for github
 ```
 mc.html
 ```
+
+# LAST UPDATE:
+**2026, July 12-14: I Fixed all games to bloxcraft-st/gl-cl since genizy/google-class is blocked from jsdelivr, githack urls still work**
